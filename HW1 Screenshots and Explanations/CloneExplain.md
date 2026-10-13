@@ -1,0 +1,3 @@
+# Explanation for why I don't have a screenshot of copying the textbook
+
+Unfortunately I delete my terminal that had me clone the book, but I do have some other examples of using cp or other commands to clone and pull from github. I followed the directions largely, the only parts of this repository not created using the terminal are the screenshots, where I can't be bothered to type the long pathnames out when I can drag and drop.
